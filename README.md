@@ -1,4 +1,4 @@
-# MiniGit – A Lightweight Version Control System in Java
+# MiniGit: A Lightweight Version Control System in Java
 
 MiniGit is a lightweight Git-like version control system built in Java that replicates core Git functionalities such as staging, committing, branching, and tracking file changes using a custom object storage mechanism.
 
