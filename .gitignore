@@ -1,0 +1,28 @@
+# Compiled Java files
+*.class
+
+# Output directory
+out/
+bin/
+
+# MiniGit internal repo
+.minigit/
+
+# Local sandbox test directories
+sandbox-*/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.swp
